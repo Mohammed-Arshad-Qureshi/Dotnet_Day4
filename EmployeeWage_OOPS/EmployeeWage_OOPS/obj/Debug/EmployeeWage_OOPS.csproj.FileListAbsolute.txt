@@ -1,0 +1,7 @@
+E:\Visual_Studio\Day-4\EmployeeWage_OOPS\EmployeeWage_OOPS\bin\Debug\EmployeeWage_OOPS.exe.config
+E:\Visual_Studio\Day-4\EmployeeWage_OOPS\EmployeeWage_OOPS\bin\Debug\EmployeeWage_OOPS.exe
+E:\Visual_Studio\Day-4\EmployeeWage_OOPS\EmployeeWage_OOPS\bin\Debug\EmployeeWage_OOPS.pdb
+E:\Visual_Studio\Day-4\EmployeeWage_OOPS\EmployeeWage_OOPS\obj\Debug\EmployeeWage_OOPS.csproj.AssemblyReference.cache
+E:\Visual_Studio\Day-4\EmployeeWage_OOPS\EmployeeWage_OOPS\obj\Debug\EmployeeWage_OOPS.csproj.CoreCompileInputs.cache
+E:\Visual_Studio\Day-4\EmployeeWage_OOPS\EmployeeWage_OOPS\obj\Debug\EmployeeWage_OOPS.exe
+E:\Visual_Studio\Day-4\EmployeeWage_OOPS\EmployeeWage_OOPS\obj\Debug\EmployeeWage_OOPS.pdb

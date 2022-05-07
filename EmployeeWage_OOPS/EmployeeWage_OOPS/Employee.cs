@@ -9,7 +9,15 @@ namespace EmployeeWage_OOPS
     class Employee
     {
         public void Calculate() {
-            Console.WriteLine("Welcome to Employee wage Computation program on Master branch");
+            int Is_Present = 1;
+            Random r = new Random();
+            int check = r.Next(0, 2);
+            if (Is_Present == check)
+                Console.WriteLine("Employee Is Present");
+            else
+                Console.WriteLine("Employee Is Absent");
+            Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
